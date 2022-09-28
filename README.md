@@ -1,4 +1,4 @@
-# 【gin + gorm】ツイッターアプリのようなもの
+# 【gin + gorm】ツイッターライクなアプリ
 
 ```
 go run main.go
